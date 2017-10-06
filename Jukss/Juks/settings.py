@@ -52,7 +52,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'Jukss.urls'
+ROOT_URLCONF = 'Juks.urls'
 
 TEMPLATES = [
     {
@@ -71,7 +71,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'Jukss.wsgi.application'
+WSGI_APPLICATION = 'Juks.wsgi.application'
 
 
 # Database
